@@ -149,7 +149,7 @@ main {
   cursor: pointer;
   transition: background-color 0.3s ease;
 }
-.card div.text-container button:hover {
+.card div.text-container button:hover, .card div.text-container button:focus {
   background-color: #1a4032;
 }
 .card div.text-container button i.icon-cart {
