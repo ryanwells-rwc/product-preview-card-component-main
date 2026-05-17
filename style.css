@@ -186,6 +186,9 @@ main {
   .card div.text-container {
     padding: 2rem;
   }
+  .card div.text-container button {
+    margin-top: 2rem;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
